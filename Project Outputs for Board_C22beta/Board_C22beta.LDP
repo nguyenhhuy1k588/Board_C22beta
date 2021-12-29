@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\workspace\git\Board_C22beta\Board_C22beta.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=board_c22beta-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=board_c22beta-slotholes.txt|DrillLayers=gtl,gbl

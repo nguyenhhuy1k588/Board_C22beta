@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Board_C22beta.PrjPCB]
+   Generated File[Board_C22beta-RoundHoles.TXT]
+   Generated File[Board_C22beta-SlotHoles.TXT]
+   Generated File[Board_C22beta.LDP]
+   Generated File[Board_C22beta.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:49:31 PM On 12/29/2021
