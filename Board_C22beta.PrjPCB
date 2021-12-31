@@ -197,6 +197,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Board_C22beta\Board_C22beta.RUL
 DItemRevisionGUID=
 
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Board_C22beta\Design Rule Check - Board_C22beta.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
