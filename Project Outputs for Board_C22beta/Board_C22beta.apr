@@ -51,9 +51,9 @@ D59   ROUNDED            78.000      78.000       0.000 FLASH       0.000
 D60   ROUNDED            98.000      98.000       0.000 FLASH       0.000
 D61   ROUNDED           146.000     146.000       0.000 FLASH       0.000
 D62   ROUNDED            40.000      40.000       0.000  LINE       0.000
-D63   ROUNDED            35.000      35.000       0.000  LINE       0.000
-D64   ROUNDED            20.000      20.000       0.000  LINE       0.000
-D65   ROUNDED            30.000      30.000       0.000  LINE       0.000
+D63   ROUNDED            30.000      30.000       0.000  LINE       0.000
+D64   ROUNDED            35.000      35.000       0.000  LINE       0.000
+D65   ROUNDED            20.000      20.000       0.000  LINE       0.000
 D66   ROUNDED            60.000      60.000       0.000  LINE       0.000
 D67   ROUNDED            45.000      45.000       0.000  LINE       0.000
 D68   RECTANGULAR       100.000     160.000       0.000 FLASH     270.000
